@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "Name": "Aatrox",
+        "Ratio": "AD",
+        "Phase": "Mid/Late",
+        "img":"/img/new-aatrox-icon-in-pbe-sick-ngl-v0-g35u2a2qccib1.webp"
+    },
+    {
+        "id": 2,
+        "Name": "Ahri",
+        "Ratio": "AP",
+        "Phase": "Mid",
+         "img":"/img/66btyl8ubt411.webp"
+    },
+    {
+        "id": 3,
+        "Name": "Akali",
+        "Ratio": "AP",
+        "Phase": "Mid/Late",
+         "img":"/img/glxbid0p79r11.jpg"
+    },
+    {
+        "id": 4,
+        "Name": "Alistar",
+        "Ratio": "Tank",
+        "Phase": "Early",
+         "img":"/img/images.jpg"
+    },
+    {
+        "id": 5,
+        "Name": "Amumu",
+        "Ratio": "AP",
+        "Phase": "Early/Mid",
+         "img":"/img/dgudu0u-76c4f4e5-1b83-4b28-92fa-b7019c065549.jpg"
+    },
+    {
+        "id": 6,
+        "Name": "Anivia",
+        "Ratio": "AP",
+        "Phase": "Late",
+         "img":"/img/AniviaSquare.webp"
+    },
+    {
+        "id": 7,
+        "Name": "Annie",
+        "Ratio": "AP",
+        "Phase": "Early",
+         "img":"/img/vs4nqxqekxw31.webp"
+    },
+    {
+        "id": 8,
+        "Name": "Aphelios",
+        "Ratio": "AD",
+        "Phase": "Mid/Late",
+         "img":"/img/jl4q6alq6k1c1.jpg"
+    },
+    {
+        "id": 9,
+        "Name": "Ashe",
+        "Ratio": "AD",
+        "Phase": "Mid/Late",
+         "img":"/img/1xjo6z1oyzt11.jpg"
+    },
+    {
+        "id": 10,
+        "Name": "Aurelion Sol",
+        "Ratio": "AP",
+        "Phase": "Late",
+         "img":"/img/23978dc5f46e0aefa920bd2e7438a271.jpg"
+    }
+]
